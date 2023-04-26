@@ -1,19 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Gilmar Oliveira
+description: Meu blog pessoal
+meta_description: "Gilmar Oliveira, meu blog pessoal"
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "http://yourblog-domain.com"
+baseurl: 
+domain_name: "https://gilmarodp.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+author: "Gilmar Oliveira"
 
 # Disqus config
 disqus-shortname: ""
