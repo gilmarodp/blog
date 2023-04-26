@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: 
 domain_name: "https://gilmarodp.github.io/"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-TP354KJGMV"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
